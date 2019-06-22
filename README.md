@@ -23,3 +23,9 @@ Sensor Screens
 
 ![image](https://user-images.githubusercontent.com/28794736/59961288-8c321180-948a-11e9-8f6b-0d8806f5438c.png)
 
+
+
+Image overlapping method 
+
+
+![image](https://user-images.githubusercontent.com/28794736/59961348-504b7c00-948b-11e9-9bfc-f621dd2dcfbf.png)
